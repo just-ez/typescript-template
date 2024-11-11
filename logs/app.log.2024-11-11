@@ -1,0 +1,2 @@
+{"code":"ENOTFOUND","hostname":"_mongodb._tcp.loopstudio0.qija5v7.mongodb.net","level":"error","message":"Database connection failed! querySrv ENOTFOUND _mongodb._tcp.loopstudio0.qija5v7.mongodb.net","stack":"Error: querySrv ENOTFOUND _mongodb._tcp.loopstudio0.qija5v7.mongodb.net\n    at __node_internal_captureLargerStackTrace (node:internal/errors:496:5)\n    at __node_internal_ (node:internal/errors:715:10)\n    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:252:17)","syscall":"querySrv"}
+{"level":"info","message":"backend running on port 3001"}
